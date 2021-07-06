@@ -87,6 +87,8 @@ h1{
 .right-home img
 {
     height: 500px;
+    margin-left: 150px;
+    margin-right: 0px;
 }
 .about
 {
@@ -102,9 +104,6 @@ h1{
 {
     height: 500px;
     width: 90%;
-    margin-left: 50px;
-   
- 
 }
 .right-about
 {
