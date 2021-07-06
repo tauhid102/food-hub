@@ -16,7 +16,7 @@ h1{
 .logo img
 {
     height: 60px;
-    
+    cursor: pointer;
 }
 .menu{
     width: 60%;
@@ -86,7 +86,7 @@ h1{
 }
 .right-home img
 {
-    height: 600px;
+    height: 500px;
 }
 .about
 {
@@ -100,7 +100,7 @@ h1{
 }
 .left-about img
 {
-    height: 600px;
+    height: 500px;
     width: 90%;
     margin-left: 50px;
    
@@ -222,13 +222,14 @@ h1{
 }
 .right-contact
 {
-    width: 50%;
+    width: 48%;
 }
 .right-contact input{
     width: 100%;
     margin-top: 10px;
-    padding: 10px 0;
+    padding: 10px 5px;
     font-size: 16px;
+    
 }
 .right-contact button
 {
